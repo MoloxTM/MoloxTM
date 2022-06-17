@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MoloxTM
 - 👀 I’m interested in CCB
 - 🌱 I’m currently learning CCB language
-- 💞️ I’m looking to collaborate on CCB mixtape
+- 💞️ I’m looking to collaborate on ZZCC mixtape
 - 📫 How to reach me dont pls
 
 <!---
