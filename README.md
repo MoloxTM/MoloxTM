@@ -1,23 +1,5 @@
 <h1 align="center"><b>Hi ! I'm Andrea Pruvost Lamy 👋</b></h1>
-## Who am I?
- ```python
-  class WhoAmI:
-    user = 'Jaydeep Yadav'
-	current_edu = "CSIT"
-    currently_learning = "Javascript"
-    fun_fact = "I hate Chillies"
-	hobbies = [
-				'Music',
-                         'Chilling',
-			 	'Gaming',
-				'Sci-Fi Movies'
-			]
-	
-	def getCity():
-		return Chhattisgarh_India()
-	
-	def Ambitions():
-		BecomeSoftwareEngineer()
-		FinishMyProjects()
-	
- ```
+<!--  -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Andrea+Pruvost+Lamy..&hearts;++;Self-taught+Video+Game+Developer,;Computer+Science+Student,;OpenGL+learner,;Active+Learner/Researcher,;Love+to+learn+new+stuffs !"></a>
+</p>
