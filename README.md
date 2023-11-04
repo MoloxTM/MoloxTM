@@ -14,27 +14,26 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <br>
-```
-public class WhoamI {
+	
+	public class WhoamI {
+	
+	    public WhoamI() {
+	        this.user = "Andrea Pruvost Lamy";
+	        this.current_edu = "Computer Science";
+	        this.currently_learning = "OpenGL";
+	        hobbies = [
+	            'Game dev',
+	            'Fighting Games tournament',
+	            'Cooking',
+	            'Badminton'
+	        ]
+	    }
+	
+	    public void getMyCurrentProject() {
+	        return MinecraftClone();
+	    }
+	}
 
-    public WhoamI() {
-        this.user = "Andrea Pruvost Lamy";
-        this.current_edu = "Computer Science";
-        this.currently_learning = "OpenGL";
-        hobbies = [
-            'Game dev',
-            'Fighting Games tournament',
-            'Cooking',
-            'Badminton'
-        ]
-    }
-
-    public void getMyCurrentProject() {
-        return MinecraftClone();
-    }
-}
-```
-```
 <br><br>
 
 <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"><br><br>
@@ -47,9 +46,9 @@ public class WhoamI {
 - **Languages**:
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![Java](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=java&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![PHP](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=php&logoColor=white)
+    ![PHP](https://img.shields.io/badge/PHP%20-%232370ED.svg?style=for-the-badge&logo=php&logoColor=white)
 <br>   
     
 - **Front-End Development**:
@@ -96,7 +95,7 @@ public class WhoamI {
 
 <div align="center">
 
-<a href="https://github.com/0xabdulkhalid/">
+<a href="https://github.com/MoloxTM/">
   <img src="https://github-readme-stats.vercel.app/api?username=MoloxTM&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MoloxTM&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="MoloxTM"/>
 
@@ -123,21 +122,8 @@ public class WhoamI {
 <img src="https://img.shields.io/badge/linkedin:  Andrea PL-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
-
-<br>
-
-<li>
-<a href="mailto:andrea.pruvostlamycontact@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Andrea PL%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
 </ul>
 </div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
 <br>
 <br>
 <br>
